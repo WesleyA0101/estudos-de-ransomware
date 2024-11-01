@@ -1,8 +1,9 @@
 # Ransomware Simples
 
 <div align="center">
-  <img src="https://giphy.com/gifs/cat-matrix-catrix-FcqKy4Kj7XOK0hCW4g" width="300" height="300" alt="Skull gif"/>
+  <img src="https://media.giphy.com/media/RiiCMVx8jWEt3EeJnf/giphy.gif" width="100%" alt="Skull gif"/>
 </div>
+<p align="center"><a href="https://giphy.com/gifs/ilovefriday-aqsa-xenocarr-smokehijabi-RiiCMVx8jWEt3EeJnf"></a></p>
 
 Ransomware Simples é um projeto educacional desenvolvido em C para demonstrar como um ransomware básico pode ser implementado. Este projeto é exclusivamente para fins de aprendizado sobre desenvolvimento de malware e segurança cibernética.
 
@@ -15,8 +16,6 @@ Ransomware Simples é um projeto educacional desenvolvido em C para demonstrar c
 <div align="center">
   <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="C Logo" width="60" height="60"/>
   <img src="https://icongr.am/devicon/vim-original.svg?size=128&color=currentColor" alt="Vim Logo" width="60" height="60"/>
-  <img src="https://icongr.am/devicon/openssl-original.svg?size=128&color=currentColor" alt="OpenSSL Logo" width="60" height="60"/>
-  <img src="https://icongr.am/devicon/curl-original.svg?size=128&color=currentColor" alt="cURL Logo" width="60" height="60"/>
 </div>
 
 ## Tabela de Conteúdos
@@ -67,7 +66,7 @@ gcc ransomware_simples.c -o ransomware_simples -lssl -lcrypto -lcurl
 
 - O uso deste software em sistemas não autorizados é ilegal e pode resultar em consequências legais graves. Este projeto deve ser utilizado somente em ambientes de teste controlados.
 
-- Contribuições Futuras
+## Contribuições Futuras
 Este projeto será atualizado com novas funcionalidades e melhorias. Fique atento para atualizações que incluirão:
 
 - Implementação de um método de reversão de criptografia.
